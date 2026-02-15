@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on becoming an intern C++ developer
+- 🌱 I’m currently learning C++ language and Qt Framework
+- 👯 I’m looking for opportunity to take part in developing an interesting project
 
 <!--
 **wisewalker/wisewalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
